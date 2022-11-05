@@ -15,28 +15,16 @@ export default class About extends Component {
                <div className="nine columns main-col">
 
                   <h2>About Me</h2>
-                  <p>
-                     {
-                        resumeData.aboutme
-                     }
-                  </p>
+                  <div>
+                     <p>
+                        {resumeData.aboutme1}
 
-                  <div className="row">
-
-                     <div className="columns contact-details">
-
-                        <h2>Location</h2>
-                        <p className="address">
-
-
-                           <span>
-                              {resumeData.address}
-
-                           </span>
-
-                        </p>
-                     </div>
+                     </p>
+                     <p>
+                        {resumeData.aboutme2}
+                     </p>
                   </div>
+
                </div>
             </div>
          </section>

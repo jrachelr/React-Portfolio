@@ -1,6 +1,6 @@
 
+import { FaBeer } from 'react-icons/fa';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import React, { Component } from 'react';
 export default class Resume extends Component {
@@ -12,7 +12,6 @@ export default class Resume extends Component {
           <div className="three columns header-col">
             <h1><span>Education</span></h1>
           </div>
-          <FontAwesomeIcon icon={['fab', 'apple']} />
           <div className="nine columns main-col">
             {
               resumeData.education && resumeData.education.map((item) => {
@@ -65,15 +64,15 @@ export default class Resume extends Component {
             <p>
               {resumeData.skillsDescription}
             </p>
-            <div className='row'>
+            <div id='grid-container'>
               {
                 resumeData.skills && resumeData.skills.map((item) => {
                   return (
-                    <div key={item.skillname} className="column">
+                    <div key={item.skillname} className="grid-items">
                       <i className={item.className}></i>
-                      <span>
+                      <p>
                         {item.skillname}
-                      </span>
+                      </p>
                     </div>
                   )
                 })

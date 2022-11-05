@@ -1324,3 +1324,15 @@ properly.
    margin-right: auto !important;
    text-align: center !important;
 }
+
+#grid-container {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-items {
+   display: grid;
+   align-items: center;
+   justify-items: center;
+
+}
