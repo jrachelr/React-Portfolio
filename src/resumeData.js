@@ -9,17 +9,17 @@ let resumeData = {
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/jrachelr1/",
-      // "className": "fa fa-linkedin-in"
+      "className": "fa-brands fa-linkedin-in"
     },
     {
       "name": "github",
       "url": "https://github.com/jrachelr",
-      // "className": "fa fa-github"
+      "className": "fa-brands fa-github"
     },
     {
       "name": "gitlab",
-      "url": "http://twitter.com/rbhatia46",
-      // "className": "fa fa-vimeo"
+      "url": "https://gitlab.com/jrachelr1",
+      "className": "fa-brands fa-gitlab"
     }
   ],
   "aboutme": "I am a communication focused software engineer, with a curiosity toward all things in life! I recently career pivoted into tech after a rewarding career in economic analysis and commercial real estate. In my free time I like to paint and draw, spend time in nature, dance and cuddle my cat, Pendragon.",
@@ -61,17 +61,37 @@ let resumeData = {
   "skillsDescription": "Technological proficiencies",
   "skills": [
     {
-      "skillname": "HTML5"
+      "skillname": "Python",
+      "className": "fa-brands fa-python"
     },
     {
-      "skillname": "CSS"
+      "skillname": "JavaScript",
+      "className": "fa-brands fa-js"
     },
     {
-      "skillname": "Reactjs"
+      "skillname": "Django",
+      "className": "fa-solid fa-database",
     },
     {
-      "skillname": "Docker"
-    }
+      "skillname": "React",
+      "className": "fa-brands fa-react",
+    },
+    {
+      "skillname": "HTML5",
+      "className": "fa-brands fa-html5"
+    },
+    {
+      "skillname": "CSS",
+      "className": "fa-brands fa-css3-alt"
+    },
+    {
+      "skillname": "Docker",
+      "className": "fa-brands fa-docker",
+    },
+    {
+      "skillname": "Fast API",
+      "className": "fa-solid fa-bolt",
+    },
   ],
   "portfolio": [
     {
