@@ -1,3 +1,5 @@
+
+
 let resumeData = {
   "imagebaseurl": "https://gitlab.com/jrachelr1",
   "name": "Rachel Johnson",
@@ -62,52 +64,52 @@ let resumeData = {
   "skills": [
     {
       "skillname": "Python",
-      "className": "fa-brands fa-python fa-2x"
+      "symbol": "SiPython"
     },
     {
       "skillname": "JavaScript",
-      "className": "fa-brands fa-js fa-2x"
+      "symbol": "SiJavascript"
     },
-    {
-      "skillname": "Django",
-      "className": "fa-solid fa-database fa-2x",
-    },
-    {
-      "skillname": "React",
-      "className": "fa-brands fa-react fa-2x",
-    },
-    {
-      "skillname": "HTML5",
-      "className": "fa-brands fa-html5 fa-2x"
-    },
-    {
-      "skillname": "CSS",
-      "className": "fa-brands fa-css3-alt fa-2x"
-    },
-    {
-      "skillname": "Docker",
-      "className": "fa-brands fa-docker fa-2x",
-    },
-    {
-      "skillname": "Fast API",
-      "className": "fa-solid fa-bolt fa-2x",
-    },
-    {
-      "skillname": "MongoDB",
-      "className": "fa-solid fa-feather-pointed fa-2x",
-    },
-    {
-      "skillname": "PostgreSQL",
-      "className": "fa-brands fa-evernote fa-2x",
-    },
-    {
-      "skillname": "Redux",
-      "className": "fa-solid fa-atom fa-2x",
-    },
-    {
-      "skillname": "RESTful APIs",
-      "className": "fa-solid fa-cloud fa-2x",
-    },
+    // {
+    //   "skillname": "Django",
+    //   "symbol": <SiDjango />,
+    // },
+    // {
+    //   "skillname": "React",
+    //   "className": "fa-brands fa-react fa-2x",
+    // },
+    // {
+    //   "skillname": "HTML5",
+    //   "className": "fa-brands fa-html5 fa-2x"
+    // },
+    // {
+    //   "skillname": "CSS",
+    //   "className": "fa-brands fa-css3-alt fa-2x"
+    // },
+    // {
+    //   "skillname": "Docker",
+    //   "className": "fa-brands fa-docker fa-2x",
+    // },
+    // {
+    //   "skillname": "Fast API",
+    //   "className": "fa-solid fa-bolt fa-2x",
+    // },
+    // {
+    //   "skillname": "MongoDB",
+    //   "className": "fa-solid fa-feather-pointed fa-2x",
+    // },
+    // {
+    //   "skillname": "PostgreSQL",
+    //   "className": "fa-brands fa-evernote fa-2x",
+    // },
+    // {
+    //   "skillname": "Redux",
+    //   "className": "fa-solid fa-atom fa-2x",
+    // },
+    // {
+    //   "skillname": "RESTful APIs",
+    //   "className": "fa-solid fa-cloud fa-2x",
+    // },
   ],
   "portfolio": [
     {
