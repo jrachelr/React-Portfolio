@@ -1334,5 +1334,13 @@ properly.
    display: grid;
    align-items: center;
    justify-items: center;
+}
 
+.symbol {
+   size: 3em;
+   vertical-align: middle;
+}
+
+svg {
+   vertical-align: middle;
 }
