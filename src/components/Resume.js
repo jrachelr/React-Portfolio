@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaPython, FaReact, FaHtml5, FaCss3Alt, FaDocker, faCloud, FaCloud } from 'react-icons/fa';
+import { FaPython, FaReact, FaHtml5, FaCss3Alt, FaDocker, FaCloud } from 'react-icons/fa';
 import { SiJavascript } from "@react-icons/all-files/si/SiJavascript";
 import { SiDjango } from "@react-icons/all-files/si/SiDjango"
 import { SiPostgresql } from "@react-icons/all-files/si/SiPostgresql"
