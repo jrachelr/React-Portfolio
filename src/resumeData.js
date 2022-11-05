@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl": "https://rbhatia46.github.io/",
+  "imagebaseurl": "https://gitlab.com/jrachelr1",
   "name": "Rachel Johnson",
   "role": "Full Stack Software Engineer",
   "linkedinId": "Your LinkedIn Id",
@@ -8,56 +8,57 @@ let resumeData = {
   "socialLinks": [
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-      "className": "fa fa-linkedin"
+      "url": "https://www.linkedin.com/in/jrachelr1/",
+      // "className": "fa fa-linkedin-in"
     },
     {
       "name": "github",
-      "url": "http://github.com/rbhatia46",
-      "className": "fa fa-github"
+      "url": "https://github.com/jrachelr",
+      // "className": "fa fa-github"
     },
     {
       "name": "gitlab",
       "url": "http://twitter.com/rbhatia46",
-      "className": "fa fa-twitter"
+      // "className": "fa fa-vimeo"
     }
   ],
-  "aboutme": "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "aboutme": "I am a communication focused software engineer, with a curiosity toward all things in life! I recently career pivoted into tech after a rewarding career in economic analysis and commercial real estate. In my free time I like to paint and draw, spend time in nature, dance and cuddle my cat, Pendragon.",
+
   "address": "California, USA",
-  "website": "https://rbhatia46.github.io",
+
   "education": [
     {
-      "UniversityName": "The LNM Insitute of Information Technology",
-      "specialization": "Some specialization",
-      "MonthOfPassing": "Aug",
-      "YearOfPassing": "2020",
-      "Achievements": "Some Achievements"
+      "UniversityName": "Hack Reactor",
+      "specialization": "Software Engineering Immersive Certificate",
+      "MonthOfPassing": "December",
+      "YearOfPassing": "2022",
+      "Achievements": "Full stack software development in an agile environment with over 1000 hours of coding."
     },
     {
-      "UniversityName": "Some University",
-      "specialization": "Some specialization",
-      "MonthOfPassing": "Jan",
-      "YearOfPassing": "2018",
-      "Achievements": "Some Achievements"
+      "UniversityName": "University of Sydney",
+      "specialization": "Bachelor of Arts",
+      "MonthOfPassing": "December",
+      "YearOfPassing": "2012",
+      "Achievements": "Majors in Economics and Psychology."
     }
   ],
   "work": [
     {
-      "CompanyName": "Some Company",
-      "specialization": "Some specialization",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2018",
-      "Achievements": "Some Achievements"
+      "CompanyName": "CoStar Group",
+      "title": "Associate Director, Market Analytics",
+      "MonthOfLeaving": "November",
+      "YearOfLeaving": "2021",
+      "Achievements": "Costar Group is is the leading provider of commercial real estate information, analytics and online marketplaces."
     },
     {
-      "CompanyName": "Some Company",
-      "specialization": "Some specialization",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2018",
-      "Achievements": "Some Achievements"
+      "CompanyName": "CBRE",
+      "title": "Senior Research Analyst",
+      "MonthOfLeaving": "July",
+      "YearOfLeaving": "2019",
+      "Achievements": "CBRE is the global leader in commercial real estate services and investments. While at CBRE I provided business development and analytics support for over one million square feet of retail leases in Manhattan"
     }
   ],
-  "skillsDescription": "Your skills here",
+  "skillsDescription": "Technological proficiencies",
   "skills": [
     {
       "skillname": "HTML5"
@@ -67,6 +68,9 @@ let resumeData = {
     },
     {
       "skillname": "Reactjs"
+    },
+    {
+      "skillname": "Docker"
     }
   ],
   "portfolio": [
