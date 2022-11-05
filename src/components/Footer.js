@@ -24,7 +24,7 @@ export default class Footer extends Component {
           <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
         </div>
         <div>
-          <span>Copyright Rachel Johnson 2022</span>
+          <span>&copy; Rachel Johnson 2022</span>
         </div>
       </footer>
     );
