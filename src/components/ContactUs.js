@@ -6,10 +6,12 @@ export default class ContactUs extends Component {
         <div className="row section-head">
           <div className="ten columns">
             <p className="lead">
-              Say hi!:
+              <h4>Get in touch:</h4>
             </p>
             <p>
-              hello@racheldev.com
+              <a href="mailto:hello@racheldev.com">
+                hello@racheldev.com
+              </a>
             </p>
           </div>
         </div>

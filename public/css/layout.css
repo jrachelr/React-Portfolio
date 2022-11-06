@@ -941,7 +941,7 @@ call-to-action .button {
 #contact {
    background: #191919;
    padding-top: 96px;
-   padding-bottom: 102px;
+   padding-bottom: 90px;
    color: #fff;
 }
 
@@ -951,7 +951,8 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-   color: #117eb0;
+   color: #29a7e2;
+   font-size: 18px;
 }
 
 #contact a:hover,
@@ -983,7 +984,7 @@ call-to-action .button {
 }
 
 #contact h4 {
-   font: 16px/24px 'opensans-bold', sans-serif;
+   font: 32px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
