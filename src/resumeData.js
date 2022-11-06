@@ -24,9 +24,9 @@ let resumeData = {
       "className": "fa-brands fa-gitlab"
     }
   ],
-  "aboutme1": "Hi, I’m Rachel! A communication focused software engineer, with a curiosity toward all things in life! I enjoy making and breaking things in code, exploring new technologies, and solving problems.",
+  "aboutme1": "Hi, I’m Rachel! I am a communication focused software engineer, with a curiosity toward all things in life. I enjoy making and breaking things in code, exploring new technologies, and solving problems.",
 
-  "aboutme2": "My background is in data and economic analysis. In my free time I like to paint and draw, spend time in nature, dance and cuddle my cat, Pendragon. I currently reside in California, USA but Sydney, Australia is where I call home.",
+  "aboutme2": "My background is in data interpretation and economic analysis. In my free time I like to paint and draw, spend time in nature, dance and cuddle my cat, Pendragon. I currently reside in California, USA but Sydney, Australia is where I call home.",
 
   "education": [
     {
@@ -48,16 +48,16 @@ let resumeData = {
     {
       "CompanyName": "CoStar Group",
       "title": "Associate Director, Market Analytics",
-      "MonthOfLeaving": "November",
+      "MonthOfLeaving": "2019 -",
       "YearOfLeaving": "2021",
-      "Achievements": "Costar Group is is the leading provider of commercial real estate information, analytics and online marketplaces."
+      "Achievements": "CoStar Group is is the leading provider of commercial real estate information, analytics and online marketplaces. At CoStar I grew market analytics coverage to encompass all property types across the New York metropolitian region."
     },
     {
       "CompanyName": "CBRE",
       "title": "Senior Research Analyst",
-      "MonthOfLeaving": "July",
+      "MonthOfLeaving": "2016 -",
       "YearOfLeaving": "2019",
-      "Achievements": "CBRE is the global leader in commercial real estate services and investments. While at CBRE I provided business development and analytics support for over one million square feet of retail leases in Manhattan"
+      "Achievements": "CBRE is the global leader in commercial real estate services and investments. While at CBRE I provided business development and analytics support for over one million square feet of retail leases in Manhattan."
     }
   ],
   "skillsDescription": "Technical proficiencies",
