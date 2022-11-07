@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaPython, FaReact, FaHtml5, FaCss3Alt, FaDocker, FaCloud } from 'react-icons/fa';
+import { FaPython, FaReact, FaHtml5, FaCss3Alt, FaDocker, FaLaptopCode } from 'react-icons/fa';
 import { SiJavascript } from "@react-icons/all-files/si/SiJavascript";
 import { SiDjango } from "@react-icons/all-files/si/SiDjango"
 import { SiPostgresql } from "@react-icons/all-files/si/SiPostgresql"
@@ -138,9 +138,9 @@ export default class Resume extends Component {
               </div>
               <div className="grid-items">
                 <div className='symbol'>
-                  <FaCloud size="2em" />
+                  <FaLaptopCode size="2em" />
                 </div>
-                <p>RESTful APIs</p>
+                <p>WebSockets</p>
               </div>
               {/* {
                 resumeData.skills && resumeData.skills.map((item) => {
