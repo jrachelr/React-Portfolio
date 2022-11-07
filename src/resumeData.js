@@ -60,7 +60,7 @@ let resumeData = {
       "Achievements": "CBRE is the global leader in commercial real estate services and investments. While at CBRE I provided business development and analytics support for over one million square feet of retail leases in Manhattan."
     }
   ],
-  "skillsDescription": "Technical proficiencies",
+  "skillsDescription": "Technical proficiencies:",
   "skills": [
     {
       "skillname": "Python",

@@ -23,7 +23,7 @@ export default class Porfolio extends Component {
                 <a href="https://gitlab.com/jrachelr1/car-car">
                   <img src="images/car.png" alt="side of car"></img>
                 </a>
-                <p>A full-stack microservice application built with Django and React.</p>
+                <p>A full-stack microservice application to manage a car dealership and service department built with Django and React.</p>
               </div>
               <div className="portfolio-item">
                 <h4>ConferenceGO</h4>
