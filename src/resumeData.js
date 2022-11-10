@@ -50,7 +50,7 @@ let resumeData = {
       "title": "Associate Director, Market Analytics",
       "MonthOfLeaving": "2019 -",
       "YearOfLeaving": "2021",
-      "Achievements": "CoStar Group is is the leading provider of commercial real estate information, analytics and online marketplaces. At CoStar I grew market analytics coverage to encompass all property types across the New York metropolitian region."
+      "Achievements": "CoStar Group is the leading provider of commercial real estate information, analytics and online marketplaces. At CoStar I grew market analytics coverage to encompass all property types across the New York metropolitian region."
     },
     {
       "CompanyName": "CBRE",
