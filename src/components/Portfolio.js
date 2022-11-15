@@ -32,7 +32,7 @@ export default class Porfolio extends Component {
 
                   <img src="images/conference.jpg" alt="windows at a conference"></img>
 
-                  <p>A conference management application implementing third party APIs</p>
+                  <p>A conference management application implementing third party APIs.</p>
                 </div>
               </a>
             </div>
