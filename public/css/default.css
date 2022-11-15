@@ -454,7 +454,7 @@ a,
 a:visited {
    text-decoration: none;
    outline: 0;
-   color: #11ABB0;
+   color: #0f0f0f;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
