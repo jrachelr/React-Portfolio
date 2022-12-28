@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 export default class ContactUs extends Component {
   render() {
     return (
@@ -9,13 +9,10 @@ export default class ContactUs extends Component {
               <h4>Get in touch:</h4>
             </p>
             <p>
-              <a href="mailto:hello@racheldev.com">
-                hello@racheldev.com
-              </a>
+              <a href="mailto:hello@racheldev.com">hello@racheldev.com</a>
             </p>
           </div>
         </div>
-
       </section>
     );
   }
